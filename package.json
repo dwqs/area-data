@@ -1,6 +1,24 @@
 {
   "name": "area-data",
   "version": "1.0.0",
+  "author": "pomysky@gmail.com",
+  "license": "MIT",
+  "main": "./data.js",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwqs/area-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dwqs/area-data/issues"
+  },
+  "keywords": [
+    "china",
+    "area",
+    "china area",
+    "picker",
+    "area picker"
+  ],
   "devDependencies": {
     "china-area-data": "^3.0.0",
     "lodash": "^4.17.4"
