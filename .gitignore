@@ -1,3 +1,5 @@
 .idea
 *.json
 !package.json
+test.js
+node_modules
