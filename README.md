@@ -20,7 +20,7 @@ or bower
 bower install area-data
 ```
 
-**数据来源：**最新省市区数据来自 [china-area-data](https://github.com/airyland/china-area-data), 最新街道数据来自 [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China).
+**数据来源：** 最新省市区数据来自 [china-area-data](https://github.com/airyland/china-area-data), 最新街道数据来自 [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China).
 
 ## LICENSE
 
