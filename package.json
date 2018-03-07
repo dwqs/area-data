@@ -1,6 +1,6 @@
 {
   "name": "area-data",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "pomysky@gmail.com",
   "description": "中国省、市、区、街道数据",
   "license": "MIT",
@@ -13,7 +13,11 @@
   "bugs": {
     "url": "https://github.com/dwqs/area-data/issues"
   },
-  "files": ["data.js"],
+  "files": [
+    "data.js",
+    "package.json",
+    "README.md"
+  ],
   "keywords": [
     "china",
     "area",
@@ -24,7 +28,8 @@
     "中国省份"
   ],
   "devDependencies": {
-    "china-area-data": "^3.0.0",
-    "lodash": "^4.17.4"
-  }
+    "lodash": "^4.17.4",
+    "china-area-data": "^4.0.0"
+  },
+  "dependencies": {}
 }
