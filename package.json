@@ -1,8 +1,8 @@
 {
   "name": "area-data",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "author": "pomysky@gmail.com",
-  "description": "中国省、市、区、街道数据",
+  "description": "中国省、市、区数据(含港澳台)",
   "license": "MIT",
   "main": "./data.js",
   "private": false,
