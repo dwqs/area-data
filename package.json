@@ -28,8 +28,7 @@
     "中国省份"
   ],
   "devDependencies": {
-    "lodash": "^4.17.4",
-    "china-area-data": "^4.0.0"
+    "lodash": "^4.17.4"
   },
   "dependencies": {}
 }
