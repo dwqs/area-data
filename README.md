@@ -1,9 +1,9 @@
 # area-data
 中国省、市、区数据(含港澳台)
 
-## v5.0.0
+## v5
 * 更改新的数据来源：[area-puppeteer](https://github.com/dwqs/area-puppeteer)
-* 在实用性上对数据作了一个的格式化处理
+* 在实用性上对数据作了格式化处理，见[area-puppeteer#format.js](https://github.com/dwqs/area-puppeteer/blob/master/format.js#L16)
 * 新的导出会有两份数据：`pca-code.js` 和 `pcaa-code.js`，前者仅包含省市数据，后者包含省市(县)区数据
 
 ## v3.1
