@@ -4,7 +4,7 @@
 ## v5
 * 更改新的数据来源：[area-puppeteer](https://github.com/dwqs/area-puppeteer)
 * 在实用性上对数据作了格式化处理，见[area-puppeteer#format.js](https://github.com/dwqs/area-puppeteer/blob/master/format.js#L16)
-* 新的导出会有两份数据：`pca-code.js` 和 `pcaa-code.js`，前者仅包含省市数据，后者包含省市(县)区数据
+* 新的导出会有两份数据：`pca.js` 和 `pcaa.js`，前者仅包含省市数据，后者包含省市(县)区数据
 
 ## v3.1
 增加广东省中山市和东莞市的区镇数据(参考京东 pc 端的地区选择)
@@ -43,6 +43,9 @@ import AreaData from 'area-data';
 
 // v5及之后的版本
 import { pca, pcaa } from 'area-data';
+// 可以根据需要按需引入：
+import PCA from 'area-data/pca'; 
+import PCAA from 'area-data/pcaa'; 
 
 pca['86'] // 等同于 AreaData['86']
 // 所有省份：{'110000': '北京市', '120000': '天津市', '130000': '河北省', ...}
