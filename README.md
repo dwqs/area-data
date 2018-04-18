@@ -38,10 +38,10 @@ bower install area-data
 
 ## 获取数据
 ```
-// v1
+// v5之前的版本
 import AreaData from 'area-data';
 
-// v5
+// v5及之后的版本
 import { pca, pcaa } from 'area-data';
 
 pca['86'] // 等同于 AreaData['86']
