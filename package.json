@@ -1,6 +1,6 @@
 {
   "name": "area-data",
-  "version": "5.0.1",
+  "version": "5.0.5",
   "author": "pomysky@gmail.com",
   "description": "中国省、市、区数据(含港澳台)",
   "license": "MIT",
@@ -16,8 +16,8 @@
   "files": [
     "data.js",
     "package.json",
-    "pca-code.js",
-    "pcaa-code.js",
+    "pca.js",
+    "pcaa.js",
     "README.md"
   ],
   "keywords": [
