@@ -1,4 +1,4 @@
 module.exports = {
-    pca: require('./pca-code'),
-    pcaa: require('./pcaa-code')
+    pca: require('./pca'),
+    pcaa: require('./pcaa')
 };
