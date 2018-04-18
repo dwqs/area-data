@@ -16,6 +16,8 @@
   "files": [
     "data.js",
     "package.json",
+    "pca-code.js",
+    "pcaa-code.js",
     "README.md"
   ],
   "keywords": [
