@@ -56,16 +56,11 @@ pcaa['130200'] // 等同于 AreaData['130200']
 ### v1
 AreaData['130202']
 // 对应县区的所有街道：{'130202001000': '学院南路街道', '130202002000': '友谊街道', ...}
-
-### v2 
-// v2 版本中 AreaData 中不再包含街道数据，需要单独引入 street.js
-STREETS['130202']
-// 对应县区的所有街道：{'130202001000': '学院南路街道', '130202002000': '友谊街道', ...}
 ```
 
 > 官方数据(截止到2016.07.31): [城乡区域划分](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2016/index.html)
 
-**数据来源：** 最新省市区数据来自 [area-puppeteer](https://github.com/dwqs/area-puppeteer/), 街道数据参考 [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China).
+**数据来源：** 最新省市区数据来自 [area-puppeteer](https://github.com/dwqs/area-puppeteer/).
 
 ## LICENSE
 
