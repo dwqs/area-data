@@ -1,6 +1,10 @@
 # area-data
 中国省、市、区数据(含港澳台)
 
+## v4.0.0
+* 更改新的数据来源：[area-puppeteer](https://github.com/dwqs/area-puppeteer)
+* 在实用性上对数据作了一个的格式化处理
+
 ## v3.1
 增加广东省中山市和东莞市的区镇数据(参考京东 pc 端的地区选择)
 ## v3
