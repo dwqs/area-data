@@ -1,5 +1,5 @@
 # area-data
-中国省、市、区数据(含港澳台)
+中国行政区域数据(含港澳台)
 
 ## v5
 * 更改新的数据来源：[area-puppeteer](https://github.com/dwqs/area-puppeteer)
